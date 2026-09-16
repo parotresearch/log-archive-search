@@ -1,2 +1,2 @@
-# bubbleup
-Log archive search demo
+# Bubble Up
+Coming soon.
